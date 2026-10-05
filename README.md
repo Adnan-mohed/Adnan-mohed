@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Adnan Mohamed Ali 👋
 
-<!--
-**Adnan-mohed/Adnan-mohed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science graduate and Data Analyst interested in turning raw data into clear and useful insights for decision-making.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Bachelor's degree in Computer Science
+- 📊 Interested in Data Analysis, Business Intelligence, and Information Management
+- 🛠️ Experienced with Python, SQL, Excel, Power BI, and Tableau
+- 📈 Interested in data cleaning, analysis, visualization, and dashboard development
+- 🌱 Continuously learning and building data-focused projects
+
+## Technical Skills
+
+- **Programming & Querying:** Python, SQL
+- **Data Analysis:** Excel, Pandas, data cleaning, exploratory data analysis
+- **Data Visualization:** Power BI, Tableau
+- **Data Collection:** KoboToolbox
+
+## Featured Projects
+
+### Nashville Housing Data Cleaning – SQL
+Cleaned and standardized Nashville Housing data using SQL.
+
+### Seattle Airbnb Data Analysis – Tableau
+Analyzed Seattle Airbnb data and developed an interactive Tableau dashboard.
+
+### Data Professional Survey Analysis – Power BI
+Analyzed survey data from 630 data professionals and developed a Power BI dashboard exploring salaries, job roles, programming languages, and job satisfaction.
+
+## Connect With Me
+
+- 📧 Email: adnan.mohed0@gmail.com
+- 💼 GitHub: https://github.com/Adnan-mohed
