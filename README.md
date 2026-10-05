@@ -31,4 +31,6 @@ Analyzed survey data from 630 data professionals and developed a Power BI dashbo
 ## Connect With Me
 
 - 📧 Email: adnan.mohed0@gmail.com
+- 📱 Phone: +252 618 446 897
 - 💼 GitHub: https://github.com/Adnan-mohed
+
